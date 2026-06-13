@@ -47,8 +47,3 @@ Load the dataset from the online Kaggle platform : [Dataset Link](https://www.ka
 jupyter notebook alzheimers_detection.ipynb
 ```
 
-
-# Contributors
-
-- Aarya Khandelwal
-- Aaradhya Verma
